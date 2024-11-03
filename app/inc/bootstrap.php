@@ -1,0 +1,2 @@
+<?php
+const MAIN_DIR = 'app' . DIRECTORY_SEPARATOR . 'views' . DIRECTORY_SEPARATOR . 'templates' . DIRECTORY_SEPARATOR;
